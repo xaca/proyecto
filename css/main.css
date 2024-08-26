@@ -1,0 +1,15 @@
+@media only screen and (max-width: 767px) {
+    /* CSS rules for mobile devices go here */
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    /* CSS rules for tablets go here */
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1439px) {
+    /* CSS rules for desktops go here */
+}
+
+@media only screen and (min-width: 1440px) {
+    /* CSS rules for televisions go here */
+}
