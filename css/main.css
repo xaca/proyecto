@@ -1,6 +1,22 @@
 body{
     background-color: aqua;
 }
+.boton{
+    text-align: center;
+    border-radius: 25px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    width: 70px;
+    height: 17px;
+    margin-top: 10px;
+    display: block;
+    text-decoration: none;
+}
+.boton:hover{
+    background-color: white;
+    color:#45a049;
+}
 @media only screen and (max-width: 767px) {
     /* CSS rules for mobile devices go here */
 }
